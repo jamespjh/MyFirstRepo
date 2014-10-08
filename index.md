@@ -6,6 +6,6 @@ Some stuff and stuff and stuff
 2. Brand new second message.
 3. Certainly a true third line.
 
-This BIG OL MISTAKE is still here
+A BIG OL MISTAKE
 
 4. Definite fourth line.
