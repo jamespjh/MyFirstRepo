@@ -8,3 +8,4 @@ Some stuff and stuff and stuff
 4. Definite fourth line.
 5. Eerily, it's a fifth line
 6. Finally! A sixth message.
+7. Gorgeous seventh line.
